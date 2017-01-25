@@ -1,0 +1,42 @@
+
+.mainTitle {
+    -fx-background-color: #3d57fa;
+    -fx-font-size:20px;
+
+
+}
+
+.middleTitle {
+    -fx-background-color: white;
+    -fx-text-alignment: center;
+
+}
+
+.userInput{
+	-fx-text-alignment: center;
+}
+
+
+.outsideCells {
+    -fx-background-color: #000000;
+    -fx-text-fill:#fefffe;
+    -fx-border-style: #ffffff;
+    -fx-stroke-border: black;
+    -fx-border-color: white;
+    -fx-border-width: 1;
+    
+
+}
+
+.insideCells {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-border-style: solid;
+    -fx-stroke-border: black;
+}
+
+.answerBox {
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+
+}
